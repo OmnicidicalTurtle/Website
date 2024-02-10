@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="184.136"
+   height="46.36"
+   viewBox="0 0 184.136 46.36"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.6581222"
+     inkscape:cx="120.154"
+     inkscape:cy="23.204741"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Logo" />
+  <g
+     id="Logo"
+     transform="translate(-258.98 -51.39)"
+     style="isolation: isolate">
+    <path
+       id="Layer_14"
+       data-name="Layer 14"
+       d="m 283.81212,97.449615 c -11.86654,-0.01505 -19.08954,-3.158864 -20.26128,-14.964191 -1.17171,-11.805012 2.43666,-28.130785 14.06761,-30.479404 11.63095,-2.34862 23.14949,4.485963 26.65034,15.820655 3.50095,11.334994 -2.1549,23.482832 -13.08579,28.101325 -2.85444,1.208248 -4.27126,1.527569 -7.37088,1.521615 z m 3.30423,-36.90462 c -14.17513,-2.139577 -10.40712,15.284768 -11.21075,25.686337 -0.85612,11.080983 31.18199,3.725275 8.71458,-8.807675 3.6576,-0.169727 16.8573,-7.733855 2.49617,-16.878662 z"
+       fill="#3dcfd3"
+       sodipodi:nodetypes="cssscccscc" />
+    <text
+       id="Creative"
+       transform="translate(383.116,84.301)"
+       fill="#ffffff"
+       font-size="28px"
+       font-family="Poppins-Regular, Poppins"
+       style="font-size:32px;font-family:Forte;fill:#ffffff;-inkscape-font-specification:'Forte, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="-59.248001"
+         y="0"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">BINOD</tspan></text>
+  </g>
+</svg>
